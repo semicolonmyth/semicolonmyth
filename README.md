@@ -17,7 +17,7 @@
 - 🤖 Currently learning **AI / Machine Learning**
 - 🌱 Always exploring new tech and improving my craft
 - 💬 Ask me about Python, web dev, or WordPress
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **abkiller760@gmail.com**
 
 ---
 
