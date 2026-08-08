@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semicolonmyth&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats-semcolon.vercel.app/api/top-langs/?username=semicolonmyth&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
