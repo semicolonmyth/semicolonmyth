@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Semicolon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;HTML+%7C+CSS+%7C+WordPress;Currently+Learning+AI+%F0%9F%A4%96;Building+Cool+Stuff+With+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;HTML+%7C+CSS+%7C+WordPress;Currently+Learning+AI+%F0%9F%A4%96;Building+Cool+Stuff+With+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/semicolonmyth/semicolonmyth/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
-
+> ℹ️ The snake animation needs a one-time GitHub Actions setup — see the note at the bottom of this file.
 
 ---
 
@@ -77,10 +77,23 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semicolonmyth&color=2E9EF7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=semicolonmyth&color=10b981&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=footer" />
 </p>
 
+<!--
+SETUP NOTES:
+1. Replace "semicolonmyth" everywhere with your actual GitHub username.
+2. Replace Semicolon and your email/social links.
+3. This README must be placed in a repo with the SAME name as your GitHub username
+   (e.g. github.com/semicolonmyth/semicolonmyth) to appear on your profile.
+4. For the Snake animation:
+   - Go to https://github.com/Platane/snk for setup instructions.
+   - Add the provided GitHub Action workflow to your profile repo.
+   - It generates the snake SVG automatically on a schedule.
+5. For accurate stats, you can deploy your own instance of github-readme-stats
+   if the public API is rate-limited.
+-->
