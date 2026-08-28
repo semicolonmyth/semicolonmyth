@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/semicolonmyth/semicolonmyth/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
-> ℹ️ The snake animation needs a one-time GitHub Actions setup — see the note at the bottom of this file.
+
 
 ---
 
